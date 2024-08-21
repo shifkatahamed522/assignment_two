@@ -21,4 +21,3 @@ foreach ($strings as $string) {
 }
 
 ?>
-git push -u origin maingit
